@@ -124,7 +124,7 @@ Dataset
 
 The model was trained using the Car Exterior Damage Detection dataset available through Roboflow Universe.
 
-Dataset source:
+Dataset source: https://universe.roboflow.com/matthews-mancave/car-exterior-damage-detection-rgmxg/dataset/3
 
 Car Exterior Damage Detection Dataset – Roboflow Universe
 
@@ -136,7 +136,7 @@ Installation
 
 Clone the repository:
 
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/ifas-123/car-damage-detection-insurance-system.git
 
 Navigate into the project directory:
 
